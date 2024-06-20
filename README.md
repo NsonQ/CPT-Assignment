@@ -8,4 +8,4 @@
 | LEON THEN LEONG ONN | 163202 |
 
 ## Description
-This GitHub repository's purpose is to have a better view of the Boyer Moore Algorithm written by our group
+This repository contains an implementation of the Boyer-Moore string matching algorithm in Python, developed as part of the CPT212 Assignment 2. The Boyer-Moore algorithm is a highly efficient string searching algorithm that utilises preprocessing techniques to skip sections of the text, making it faster than naive string matching methods.
